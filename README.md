@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @touseefrah
-- 👀 I’m interested in Software Quality Assuarance
-- 🌱 I’m currently learning Pyhthon.
-- 💞️ I’m looking to collaborate on Python.
+- 👀 I’m a Senior Software Quality Assurance Engineer
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me "touseefrahdari@gmail.com"
 
 <!---
